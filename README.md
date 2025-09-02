@@ -2,7 +2,7 @@
 *WARNING: RESOURCEPACK IN ALPHA!!!*
 ## Description
 Welcome to the GitHub repository of the resource pack for Minecraft: ULTIMATE Vanilla. This resource pack changes and improves vanilla Minecraft. Animations, sounds, dark UI and new "fresh" textures. Also fixed some texture conflicts (overlapping) and other errors.
-## Known Compatibility Issues
+## Status of resource pack functions
 | Function         | Status                                                                                                                                                                                                                                                                                                   |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Animations     | <details><summary>✅ Works</summary>At the moment, most of the animations work stably, some mobs are missing it, but it most likely has not been added yet.</details> |
